@@ -12,7 +12,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
 ## Careers
-Soon...^^ </br>
+LG CNS Backend Engineer(2023.07 ~ )
 
 ## Experiences
 <a href="https://boostcamp.connect.or.kr/">
